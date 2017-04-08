@@ -18,6 +18,10 @@
   ],
   "author": "LedBass",
   "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mysql": "^2.13.0"
+  },
   "bugs": {
     "url": "https://github.com/LedBass/user-control/issues"
   },
